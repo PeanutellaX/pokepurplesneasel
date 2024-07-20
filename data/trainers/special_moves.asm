@@ -93,7 +93,7 @@ SpecialTrainerMoves:
 	db 4, 3, THUNDER
 	db 4, 4, ROLLING_KICK
 	db 5, 1, ROCK_SLIDE
-	db 5, 2, SELF_DESTRUCT
+	db 5, 2, SELFDESTRUCT
 	db 5, 3, FISSURE
 	db 5, 4, EARTHQUAKE
 	db 0
